@@ -1,0 +1,19 @@
+# Ignore data and large files
+data/
+data_project/
+*.csv
+*.zip
+*.pkl
+*.parquet
+*.h5
+
+# Ignore system files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+.venv/
